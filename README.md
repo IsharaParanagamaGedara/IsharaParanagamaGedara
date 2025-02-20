@@ -39,8 +39,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IsharaParanagamaGedara&icon=0&color=3)](https://visitcount.itsvg.in)
-
----
-
 🔥 **Thank you for visiting!** 🔥  
 
