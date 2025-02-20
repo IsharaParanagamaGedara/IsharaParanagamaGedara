@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Connect With Me:  
+### 🌐 Connect With Me:  
 <p align="left">
   <a href="https://www.linkedin.com/in/sulani-ishara-paranagama-gedara-9ab94b257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -14,8 +14,11 @@
   <a href="https://www.kaggle.com/sulaniishara" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-%230494E1.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sulani194" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://codepen.io/sulani" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
 </p>
 
